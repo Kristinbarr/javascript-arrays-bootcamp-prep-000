@@ -1,4 +1,4 @@
-const chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 
 function addElementToBeginningOfArray (arr, elem) {
   let newArr = arr.slice()
